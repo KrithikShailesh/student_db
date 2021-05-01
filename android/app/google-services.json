@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "996157810543",
+    "firebase_url": "https://studentdb-d80fb-default-rtdb.firebaseio.com",
+    "project_id": "studentdb-d80fb",
+    "storage_bucket": "studentdb-d80fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996157810543:android:2e04d67b5fcbd96d142a9a",
+        "android_client_info": {
+          "package_name": "com.example.student_database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996157810543-td9919h56o5qo3p65lcuc48ppd2a2nrj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACysnyIw040VTXvj6QeN0qtng98W8y_Tg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996157810543-td9919h56o5qo3p65lcuc48ppd2a2nrj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
